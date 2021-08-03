@@ -8,6 +8,7 @@ public class SpringBootMvcSampleProject2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMvcSampleProject2Application.class, args);
-	}
+	System.out.println("ajay");
+}
 
 }
